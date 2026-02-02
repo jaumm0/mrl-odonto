@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.font-cormorant {
+  font-family: 'inter', 'Cormorant';
+}
+
+
+@theme {
+    /*color text Header.jsx */
+        --color-Headertext:#717D90 ;
+
+
+    /*color bg inicio.jsx */
+        --color-bginicio:#ECF5FA ;
+    /*color text inicio.jsx */
+        --color-ptext:#0c4eab ;
+        --color-bgptext:#EBF5FA ;
+    /*color span text inicio.jsx */
+
+        --color-pspan:#707d90 ;
+    /*color bg button inicio.jsx */
+        --color-bgwhats:#17CF63 ;
+        --color-borderb:#0c4eab ;
+    /*color bg ul/div/span inicio.jsx */
+        --color-accent:#17b0cf;
+    /*color text h1 inicio.jsx */
+        --color-h1:#1d2530;
+
+    /*color bg icons Services Services.jsx */
+        --color-bgP:#EBF5FA ;
+    /*color bg Services Services.jsx */
+        --color-bgServices:#f5f8fb;
+    /*color span Services Services.jsx */
+        --color-spantext:#7A8596;
+    /*color bg icons Services Services.jsx */
+        --color-bgIcons:#FFFFFF;
+
+
+    /*color text p  Work.jsx */
+        --color-ptextSV:#0c4eab ;
+    /*color bg p  Work.jsx */
+        --color-bgptextSV:#EBF5FA ;
+    /*color text h2  Work.jsx */
+        --color-h2:#1d2530;
+    /*color text span Work.jsx */
+        --color-spangray:#627084;
+    /*color icon bg  Work.jsx */
+        --color-iconbg:#15A1D1;
+    /*color  bg  Work.jsx */
+         --color-bgI:#FFFFFF;
+
+         --color-test:#e5c50d;
+
+    /*color  bg  About.jsx */
+        --color-aboutcolor:#17b0cf;
+
+        --color-coloraside:#CBEBF3;
+
+     /*color  bg  Prefooter.jsx */
+        --color-bgprefooter:#1E9AD5;
+     /*color  bg p Prefooter.jsx */
+        --color-bgPprefooter:#4098DE;
+    /*color  bg Footer.jsx */
+        --color-bgFooter:#1D2530;
+}
