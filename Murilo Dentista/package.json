@@ -1,13 +1,16 @@
 {
   "name": "murilo-dentista",
   "private": true,
+  "homepage": "https://jaumm0.github.io/mrl-odonto/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
@@ -19,6 +22,7 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "@eslint/js": "^9.39.1",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
