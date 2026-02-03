@@ -14,8 +14,9 @@ function App() {
 
 
   return (
-    <>
-    <Header />
+
+    <div className="min-h-screen">
+    <Header  />
     <Inicio/>
     <Services/>
     <Workon/>
@@ -24,7 +25,8 @@ function App() {
     <Prefooter/>
     <Footer/>
     <WhatsAppButton />
-    </>
+    </div>
+
   )
 }
 
