@@ -5,8 +5,8 @@ function Inicio() {
     return(
         <section className="grid grid-cols-2 max-md:grid-cols-1 gap-4 max-md:gap-5 items-center px-10 max-md:px-4 py-10 max-md:py-6 bg-bginicio" id="inicio">
             <div className="flex flex-col gap-6 max-md:gap-4">
-                <p className="text-ptext bg-bgptext w-75 max-md:w-full h-8 rounded-xl pt-1 p-1 font-medium text-sm max-md:text-xs">✨ Clínica Odontológica de Excelência</p>
-                <h1 className="text-h1 text-2xl w-80 lg:w-full md:w-full sm:w-10 lg:text-6xl md:text-6xl sm:text-1xl font-inter font-bold max-md:text-xl max-md:w-full">Sorria com confiança. <br />Cuidado completo <br /> para você e sua <br /> família.</h1>
+                <p className="text-ptext bg-bgptext w-75 max-md:w-full h-8 rounded-xl pt-1 p-1 font-medium text-sm max-md:text-xs ">✨ Clínica Odontológica de Excelência</p>
+                <h1 className="text-h1 text-2xl w-100 lg:w-full md:w-full sm:w-10 lg:text-6xl md:text-6xl sm:text-2xl font-inter font-bold max-md:text-xl max-md:w-full  ">Sorria com confiança. Cuidado completo  para você e sua família.</h1>
                 <span className="text-pspan text-1xl w-80 lg:w-full lg:text-2xl md:text-2xl sm:text-1xl pt-4 text-center lg:text-left md:text-justify sm:text-justify max-md:w-full max-md:text-base max-md:pt-2">Há mais de 15 anos transformando sorrisos com tecnologia de ponta, profissionais especializados e atendimento humanizado.</span>
             <div className="flex max-md:flex-col max-md:gap-3">
                 <a target="_blank" href="https://wa.me/5511999999999"><button className="flex items-center justify-center gap-2 bg-buttonp bg-bgwhats animate-pulse space-x-4 w-80 max-md:w-full h-13 max-md:h-12 mr-5 max-md:mr-0 rounded-xl px-4 py-2 cursor-pointer font-medium text-white hover:bg-hoverBtn"><MessageCircle className=""/>Agende sua consulta</button> </a>

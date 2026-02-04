@@ -8,7 +8,7 @@ function Header() {
   const closeMenu = () => setIsOpen(false);
 
   return (
-    <header className="sticky top-0 z-50 w-full bg-gray-200 shadow-md">
+    <header className="">
       <div className="flex items-center justify-between py-3 lg:py-4 md:py-4 sm:py-3 lg:px-10 md:px-4 sm:px-4 px-4 max-md:px-3 max-md:py-2.5">
         <h1 className="font-cormorant text-2xl lg:text-3xl md:text-2xl sm:text-xl max-md:text-lg">
           Odonto Murilo

@@ -4,9 +4,11 @@ import { Stethoscope, CircleDot, Smile, Sparkles, Heart, Baby      } from 'lucid
 function Services(){
     return (
     <div className="bg-bgServices" id="Services">
-        <section className="grid grid-rows-3 place-content-center lg:place-content-center md:place-content-center sm:place-items-center pt-10 max-md:pt-6 max-md:px-3">
-            <p className="text-ptext font-medium bg-bgP w-100 place-content-center text-center max-md:text-sm">Nossos Serviços</p>
-            <h2 className="text-h1 font-bold text-2xl lg:text-5xl md:text-5xl sm:text-4xl w-100 lg:w-full md:w-full sm:w-full px-5 text-center max-md:text-xl max-md:px-2">Tratamentos completos para toda  a família</h2>
+        <section className="grid grid-rows-3 place-content-center  lg:place-content-center md:place-content-center sm:place-items-center pt-10 max-md:pt-6 max-md:px-3">
+            <div className="bg-bgP pt-5 w-100 h-15 lg:h-0 md:h-0 sm:h-0  lg:pt-0 md:pt-0 sm:pt-0  rounded-full text-center place-items-center ">
+            <p className="text-ptext font-medium   place-content-center text-center max-md:text-sm">Nossos Serviços</p>
+            </div>
+            <h2 className="text-h1 font-bold text-2xl lg:text-5xl md:text-5xl sm:text-4xl w-100 lg:w-full md:w-full sm:w-full px-5 text-center max-md:text-xl max-md:px-2 pt-5">Tratamentos completos para toda  a família</h2>
             <p className="text-pspan w-100 lg:w-full md:w-full sm:w-full md:px-0 sm:px-0 place-items-center text-center lg:pt-0 md:pt-10 sm:pt-5 px-5 lg:px-0 md:px-0 sm:px-0 max-md:text-sm max-md:pt-3">Oferecemos uma ampla gama de serviços odontológicos com qualidade e tecnologia de ponta.</p>
         </section>
         <section className="pt-10 max-md:pt-6 max-md:px-3">
