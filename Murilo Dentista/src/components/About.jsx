@@ -5,11 +5,11 @@ function About(){
         return(
             <section className="grid grid-rows-1 lg:grid-cols-2 gap-4 items-center px-10 py-10 max-md:px-4 max-md:py-6 bg-bgServices" id="About">
             
-            <aside className='grid grid-rows-[30vh_] lg:grid-cols-[40vh_30vh] gap-10 max-md:justify-items-center max-md:mb-4'>
+            <aside className='grid grid-rows-[30vh_] lg:grid-cols-[40vh_28vh] place-self-center lg:place-self-end md:place-end gap-10 max-md:justify-items-center max-md:mb-4'>
                 <div className='w-77 h-50 rounded-xl bg-gradient-to-tr from-[#2253bd] to-[#48b4cf] shadow-xl  hidden lg:block'>
                         <p className='text-7xl h-full place-self-center  place-content-center '>🦷</p>
                 </div>  
-                <div className='w-60 h-50 rounded-xl bg-coloraside shadow-xl hidden lg:block '>
+                <div className='w-60 h-45 rounded-xl bg-coloraside shadow-xl hidden lg:block '>
                         <p className='text-7xl h-full place-self-center  place-content-center '>💙</p>
                 </div>
                    <div className='w-70 h-35 rounded-xl bg-coloraside shadow-xl hidden lg:block'>

@@ -13,7 +13,7 @@ function Dep(){
             
             <section className="max-md:w-full">
                 <ul className='grid grid-cols-1 lg:grid-cols-2 gap-13 px-3 lg:px-8 max-md:gap-4 max-md:px-0'>
-                    <div className='w-90 lg:w-170 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
+                    <div className='w-90 lg:w-190 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
                         <span className='flex'>
                         <Star className='text-test '/>
                         <Star className='text-test '/>
@@ -27,7 +27,7 @@ function Dep(){
                             <h3 className='font-medium max-md:text-sm'>Maria Silva Paciente <span className='text-pspan'>há 5 anos</span> </h3>         
                         </div>  
                     </div>
-                    <div className='w-90 lg:w-170 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
+                    <div className='w-90 lg:w-190 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
                         <span className='flex'>
                         <Star className='text-test '/>
                         <Star className='text-test '/>
@@ -44,7 +44,7 @@ function Dep(){
                         
                             
                     </div>
-                    <div className='w-90 lg:w-170 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
+                    <div className='w-90 lg:w-190 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
                         <span className='flex'>
                         <Star className='text-test '/>
                         <Star className='text-test '/>
@@ -61,7 +61,7 @@ function Dep(){
                         
                             
                     </div>
-                    <div className='w-90 lg:w-170 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
+                    <div className='w-90 lg:w-190 md:w-170 sm:w-170 max-md:w-full max-md:h-auto h-55 shadow-xl px-7 py-10 max-md:px-4 max-md:py-6 rounded-xl bg-bgIcons'>
                         <span className='flex'>
                         <Star className='text-test '/>
                         <Star className='text-test '/>
