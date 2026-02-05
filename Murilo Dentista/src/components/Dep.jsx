@@ -2,14 +2,14 @@ import { Star } from 'lucide-react';
 import React from "react";
 function Dep(){
     return(
-        <section className='grid grid-rows-[20vh_1fr] max-md:grid-rows-auto place-items-center bg-bgServices max-md:px-3 max-md:py-8'>
-            <div className="max-md:mb-4">
+        <section className='grid grid-rows-[10vh_1fr] max-md:grid-rows-auto place-items-center bg-bgServices max-md:px-3 max-md:py-8'>
+            
                 <div className=' pt-5 w-100   place-self-center h-15 lg:h-0 md:h-0 sm:h-0  lg:pt-0 md:pt-0 sm:pt-0  rounded-full text-center place-items-center '>
-                <p className="text-ptextSV  font-medium  lg:py-4 md:py-4 sm:py-4text-center rounded-xl lg:w-full md:w-full sm:w-full max-md:text-sm ">Depoimento</p>
-                </div>    
+                <p className="text-ptextSV  font-medium  lg:py-4 md:py-4 sm:py-4text-center rounded-xl lg:w-full md:w-full sm:w-full max-md:text-md ">Depoimento</p>
+                   
             </div>
                 <h2 className='text-h1 font-bold text-2xl text-center lg:text-5xl md:text-5xl sm:text-5xl place-items-center justify-content max-md:text-xl max-md:px-2'>O que nossos pacientes dizem</h2>
-                <p className="text-spangray py-5  w-full lg:w-full md:w-full sm:w-full text-center px-5 max-md:px-9 max-md:pt-3 max-md:text-sm  ">A satisfação dos nossos pacientes é o nosso maior orgulho.</p>
+                <p className="text-spangray py-5 lg:py-5 md:py-5 sm:py-5  w-full lg:w-full md:w-full sm:w-full text-center px-5 max-md:px-9 max-md:pt-3 max-md:text-sm  ">A satisfação dos nossos pacientes é o nosso maior orgulho.</p>
             
             <section className="max-md:w-full">
                 <ul className='grid grid-cols-1 lg:grid-cols-2 gap-13 px-3 lg:px-8 max-md:gap-4 max-md:px-0'>

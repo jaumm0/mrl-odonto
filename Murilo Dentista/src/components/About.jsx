@@ -9,7 +9,7 @@ function About(){
                 <div className='w-77 h-50 rounded-xl bg-gradient-to-tr from-[#2253bd] to-[#48b4cf] shadow-xl  hidden lg:block'>
                         <p className='text-7xl h-full place-self-center  place-content-center '>🦷</p>
                 </div>  
-                <div className='w-60 h-40 rounded-xl bg-coloraside shadow-xl hidden lg:block '>
+                <div className='w-60 h-50 rounded-xl bg-coloraside shadow-xl hidden lg:block '>
                         <p className='text-7xl h-full place-self-center  place-content-center '>💙</p>
                 </div>
                    <div className='w-70 h-35 rounded-xl bg-coloraside shadow-xl hidden lg:block'>

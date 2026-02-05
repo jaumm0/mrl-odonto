@@ -5,7 +5,7 @@ function Workon(){
         <section className="grid grid-rows-1 lg:grid-cols-[90vh_1fr] pt-15 max-md:pt-8 bg-bgServices">
             <div className="max-md:px-2">
                 <div className=' pt-5 w-100 place-self-center h-15 lg:h-0 md:h-0 sm:h-0  lg:pt-0 md:pt-0 sm:pt-0  rounded-full text-center place-items-center '>
-                <p className="text-ptextSV  font-medium  text-center rounded-xl lg:w-full md:w-full sm:w-full max-md:text-sm ">Por que nos escolher</p>
+                <p className="text-ptextSV  font-medium  text-center rounded-xl lg:w-full md:w-full sm:w-full max-md:text-md ">Por que nos escolher</p>
                 </div>
                 <h2 className="text-2xl lg:text-5xl font-bold text-h2  lg:pt-10 md:pt-10 sm:pt-10 w-full  lg:my-0 md:my-0 sm:my-0 lg:w-full text-center max-md:text-xl max-md:pt-3 lg:px-0 md:px-0 sm:px-10">Diferenciais que fazem a diferença</h2>
                 <p className="text-spangray pt-5 w-full lg:w-full md:w-full sm:w-full text-center px-5 max-md:px-9 max-md:pt-3 max-md:text-sm ">Nossa missão é proporcionar a melhor experiência em cuidados  odontológicos, combinando excelência técnica com atendimento  acolhedor.</p>
