@@ -2,7 +2,7 @@ import { Star } from 'lucide-react';
 import React from "react";
 function Dep(){
     return(
-        <section className='grid grid-rows-[47] lg:grid-rows-[10vh_1fr] place-self-center max-md:grid-rows-auto place-items-center bg-bgServices  max-md:py-8 '>
+        <section className='grid grid-rows-[47] lg:grid-rows-[10vh_1fr] w-full place-self-center max-md:grid-rows-auto place-items-center bg-bgServices  max-md:py-8 '>
             
             
                 <div className=' pt-5 w-100   place-self-center h-15 lg:h-0 md:h-0 sm:h-0  lg:pt-0 md:pt-0 sm:pt-0  rounded-full text-center place-items-center '>
